@@ -1,0 +1,14 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "ReactNative mobile client",
+  "main": "App.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React-navtive"
+  ],
+  "author": "Becko Junior Camara",
+  "license": "ISC"
+}
